@@ -1,5 +1,2 @@
-# ignore the node modules folder
-node_modules/
-
-# ignore the to-do list file
+# todo list
 to-do.txt
